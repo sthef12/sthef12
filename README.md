@@ -38,12 +38,12 @@
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sthef12&show_icons=true&theme=tokyonight&count_private=true" /> 
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthef12&layout=compact&theme=tokyonight" />
-  <img height="160em" src="https://github.com/sthef12/sthef12/blob/main/quiser%20ser.gif" />
 </div>
 
 ---
 
 ## 🌟 Fun Facts
+<div><img height="160em" src="https://github.com/sthef12/sthef12/blob/main/Git%20Hub%20Readme.gif" /> </div>
 
 - ☕ Coffee is my coding fuel.
 - ✨ I enjoy finding *elegant* solutions to *messy* problems.
