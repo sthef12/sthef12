@@ -35,6 +35,7 @@
 
 ---
 
+## 📊 GitHub Stats
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sthef12&show_icons=true&theme=tokyonight&count_private=true" /> 
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthef12&layout=compact&theme=tokyonight" />
